@@ -1,6 +1,6 @@
 # OpenData Steward
 
-![CI](https://github.com/Demontrick/opendata-steward/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Demontrick/opendata-steward/actions/workflows/ci.yml/badge.svg) 
 
 A full-stack data stewardship platform inspired by enterprise life sciences workflows (Veeva Systems style), designed to help data stewards review, clean, and validate large-scale healthcare records efficiently.
 
